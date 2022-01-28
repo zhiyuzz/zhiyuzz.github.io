@@ -9,6 +9,8 @@ I am broadly interested in the theretical aspects of machine learning, optimizat
 
 Prior to BU, I studied mechanical enginnering at Tsinghua University.
 
+Email address: zhiyuz [at] bu (dot) edu
+
 [Google Scholar](https://scholar.google.com/citations?user=5KHfVTQAAAAJ&hl=en&authuser=2)&nbsp;&nbsp; [Github](https://github.com/zhiyuzz)&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/zhiyuz-bu/)
 
 ## Research
