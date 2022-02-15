@@ -7,7 +7,7 @@ Hello! I am a PhD student at Boston University, advised by Prof. [Yannis Paschal
 
 I am broadly interested in the theretical aspects of machine learning, optimization and control theory. Specifically, I work on adaptive online learning, i.e., designing online decision making algorithms that optimally exploit problem structures.
 
-Prior to BU, I studied mechanical enginnering at Tsinghua University.
+Prior to BU, I studied mechanical engineering at Tsinghua University.
 
 Email address: zhiyuz [at] bu (dot) edu
 
