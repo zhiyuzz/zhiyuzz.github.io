@@ -20,7 +20,7 @@ The latest versions are available on arXiv. The code of published papers is on G
  - [**PDE-Based Optimal Strategy for Unconstrained Online Learning**](https://arxiv.org/abs/2201.07877)<br>
 **ZZ**, Ashok Cutkosky, Ioannis Paschalidis.<br>
 arXiv Preprint.
-> We design a parameter-free Online Linear Optimization algorithm by solving a PDE. Its regret bound achieves the optimal leading constant for the first time.
+> We design a parameter-free unconstrained Online Linear Optimization algorithm by solving a PDE. Its regret bound achieves the optimal leading constant for the first time.
 
 - [**Adversarial Tracking Control via Strongly Adaptive Online Learning with Memory**](https://arxiv.org/abs/2102.01623)<br>
 **ZZ**, Ashok Cutkosky, Ioannis Paschalidis.<br>
