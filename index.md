@@ -15,7 +15,7 @@ Email address: zhiyuz [at] bu (dot) edu
 
 ## Research
 
-The latest versions are available on arXiv. The code of published papers is on Github.
+The latest versions are available on arXiv. The code of my published papers is on Github.
 
  - [**PDE-Based Optimal Strategy for Unconstrained Online Learning**](https://arxiv.org/abs/2201.07877)<br>
 **ZZ**, Ashok Cutkosky, Ioannis Paschalidis.<br>
@@ -31,3 +31,9 @@ AISTATS 2022.
 **ZZ**, Ioannis Paschalidis.<br>
 AISTATS 2021. Also presented at ICML 2020 Workshop.
 > We use the framework of EM algorithms to analyze the estimation of a hierarchical policy from expert demonstrations.
+
+## Service
+
+Reviewer for ICML, NeurIPS, AISTATS. 
+
+Recognitions: Top reviewer (10%) at AISTATS 2022.
