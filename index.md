@@ -5,7 +5,7 @@ layout: default
 
 Hello! I am a PhD student at Boston University, advised by Prof. [Yannis Paschalidis](https://sites.bu.edu/paschalidis/people/yannis-paschalidis/) and Prof. [Ashok Cutkosky](https://ashok.cutkosky.com/).
 
-I am broadly interested in the theretical aspects of machine learning, optimization and control theory. Specifically, I work on adaptive online learning, i.e., designing online decision making algorithms that optimally exploit problem structures.
+I am broadly interested in the theoretical aspects of machine learning, optimization and control theory. Specifically, I work on adaptive online learning, i.e., designing online decision making algorithms that optimally exploit problem structures.
 
 Prior to BU, I studied mechanical engineering at Tsinghua University.
 
