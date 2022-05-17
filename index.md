@@ -17,6 +17,11 @@ Email address: zhiyuz [at] bu (dot) edu
 
 The latest versions are available on arXiv. The code of my published papers is on Github.
 
+ - [**Optimal Parameter-free Online Learning with Switching Cost**](https://arxiv.org/abs/2205.06846)<br>
+**ZZ**, Ashok Cutkosky, Ioannis Paschalidis.<br>
+arXiv preprint.
+> We consider the design of parameter-free algorithms in the presence of switching costs. Using a dual space scaling strategy, our approach effectively trades off these two opposite considerations, improving the existing result to the optimal rate. 
+
  - [**PDE-Based Optimal Strategy for Unconstrained Online Learning**](https://arxiv.org/abs/2201.07877)<br>
 **ZZ**, Ashok Cutkosky, Ioannis Paschalidis.<br>
 ICML 2022.
