@@ -11,7 +11,7 @@ Prior to BU, I studied mechanical engineering at Tsinghua University.
 
 Email address: zhiyuz [at] bu (dot) edu
 
-[Google Scholar](https://scholar.google.com/citations?user=5KHfVTQAAAAJ&hl=en&authuser=2)&nbsp;&nbsp; [Github](https://github.com/zhiyuzz)&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/zhiyuz-bu/)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=5KHfVTQAAAAJ&view_op=list_works&authuser=2&sortby=pubdate)&nbsp;&nbsp; [Github](https://github.com/zhiyuzz)&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/zhiyuz-bu/)
 
 ## Research
 
