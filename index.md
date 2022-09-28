@@ -17,8 +17,6 @@ Email address: zhiyuz [at] bu (dot) edu
 
 ## Research
 
-The latest versions are available on arXiv. The code of my published papers is on Github.
-
  - [**Optimal Parameter-free Online Learning with Switching Cost**](https://arxiv.org/abs/2205.06846)<br>
 **ZZ**, Ashok Cutkosky, Ioannis Paschalidis.<br>
 NeurIPS 2022. Also presented at ICML 2022 workshop. 
