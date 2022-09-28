@@ -1,5 +1,7 @@
 title: Zhiyu Zhang (张智予)
 theme: minima
 
+markdown: kramdown
+
 url: zhiyuzz.github.io
 baseurl: ""
