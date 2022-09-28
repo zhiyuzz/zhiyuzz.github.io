@@ -7,7 +7,7 @@ Hello! I am a final year PhD student at Boston University, advised by Prof. [Yan
 
 I am broadly interested in the theoretical aspects of machine learning, optimization and control theory. Specifically, I work on adaptive online learning, i.e., designing online decision making algorithms that optimally exploit problem structures. 
 
-Recently I am thinking about how to systematically simplify (and eventually automate) the design and verification of these algorithms, from an emerging continuous-time perspective. **I am looking for a postdoc position starting in Fall 2023.** 
+Recently I am thinking about how to systematically simplify (and eventually automate) the design and verification of online learning algorithms, from an emerging continuous-time perspective. **I am looking for a postdoc position starting in Fall 2023.** 
 
 Prior to BU, I studied mechanical engineering at Tsinghua University.
 
