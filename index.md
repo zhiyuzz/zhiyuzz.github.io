@@ -17,7 +17,7 @@ Email address: zhiyuz [at] bu (dot) edu
 
 ## Research
 
- - [**Optimal Parameter-free Online Learning with Switching Cost**](https://arxiv.org/abs/2205.06846)<br>
+ - [**Optimal Comparator Adaptive Online Learning with Switching Cost**](https://arxiv.org/abs/2205.06846)<br>
 **ZZ**, Ashok Cutkosky, Ioannis Paschalidis.<br>
 NeurIPS 2022. Also presented at ICML 2022 workshop. 
 
