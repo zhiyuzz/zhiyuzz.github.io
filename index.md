@@ -37,4 +37,4 @@ AISTATS 2021. Also presented at ICML 2020 Workshop.
 
 Reviewer for ICML, NeurIPS, AISTATS. 
 
-Top reviewer (10%) at AISTATS 2022, ICML 2022.
+Top reviewer (10%) at AISTATS'22, ICML'22, NeurIPS'22.
