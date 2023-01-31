@@ -17,7 +17,7 @@ Email address: zhiyuz [at] bu (dot) edu
 
 ## Research
 
- - [**Unconstrained Dynamic Regret via Sparse Coding**](https://zhiyuzz.github.io/Sparse_coding_arxiv.pdf){:target="_blank"}<br>
+ - [**Unconstrained Dynamic Regret via Sparse Coding**](https://zhiyuzz.github.io/Sparse_coding_arxiv.pdf)<br>
 **ZZ**, Ashok Cutkosky, Ioannis Paschalidis.<br>
 Preprint.
 
