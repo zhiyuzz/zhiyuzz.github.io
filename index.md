@@ -17,24 +17,24 @@ Email address: zhiyuz [at] bu (dot) edu
 
 [CV](https://zhiyuzz.github.io/CV_Zhiyu_Zhang.pdf){:target="_blank"}&nbsp;&nbsp; [Github](https://github.com/zhiyuzz)&nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?hl=en&user=5KHfVTQAAAAJ&view_op=list_works&authuser=2&sortby=pubdate)&nbsp;&nbsp; [Semantic Scholar](https://www.semanticscholar.org/author/Zhiyu-Zhang/2117992745)
 
-## Research
+## Publication
 
- - [**Unconstrained Dynamic Regret via Sparse Coding**](https://arxiv.org/abs/2301.13349)<br>
+ - [Unconstrained Dynamic Regret via Sparse Coding](https://arxiv.org/abs/2301.13349)<br>
 **ZZ**, Ashok Cutkosky, Ioannis Paschalidis.<br>
 Preprint.
 
- - [**Optimal Comparator Adaptive Online Learning with Switching Cost**](https://arxiv.org/abs/2205.06846)<br>
+ - [Optimal Comparator Adaptive Online Learning with Switching Cost](https://arxiv.org/abs/2205.06846)<br>
 **ZZ**, Ashok Cutkosky, Ioannis Paschalidis.<br>
 NeurIPS 2022. Also presented at ICML 2022 workshop. 
 
- - [**PDE-Based Optimal Strategy for Unconstrained Online Learning**](https://arxiv.org/abs/2201.07877)<br>
+ - [PDE-Based Optimal Strategy for Unconstrained Online Learning](https://arxiv.org/abs/2201.07877)<br>
 **ZZ**, Ashok Cutkosky, Ioannis Paschalidis.<br>
 ICML 2022.
 
-- [**Adversarial Tracking Control via Strongly Adaptive Online Learning with Memory**](https://arxiv.org/abs/2102.01623)<br>
+- [Adversarial Tracking Control via Strongly Adaptive Online Learning with Memory](https://arxiv.org/abs/2102.01623)<br>
 **ZZ**, Ashok Cutkosky, Ioannis Paschalidis.<br>
 AISTATS 2022.
 
-- [**Provable Hierarchical Imitation Learning via EM**](https://arxiv.org/abs/2010.03133)<br>
+- [Provable Hierarchical Imitation Learning via EM](https://arxiv.org/abs/2010.03133)<br>
 **ZZ**, Ioannis Paschalidis.<br>
 AISTATS 2021. Also presented at ICML 2020 Workshop.
