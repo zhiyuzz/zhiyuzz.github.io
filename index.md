@@ -3,17 +3,19 @@ permalink: /
 layout: default
 ---
 
-Hello! I am a final year PhD student at Boston University, advised by Prof. [Yannis Paschalidis](https://sites.bu.edu/paschalidis/people/yannis-paschalidis/) and Prof. [Ashok Cutkosky](https://ashok.cutkosky.com/).
+Hello! I am a fifth year PhD student at Boston University, advised by Prof. [Yannis Paschalidis](https://sites.bu.edu/paschalidis/people/yannis-paschalidis/) and Prof. [Ashok Cutkosky](https://ashok.cutkosky.com/). Prior to BU, I studied mechanical engineering at Tsinghua University. 
 
-I am broadly interested in the theoretical aspects of machine learning, optimization and control theory. Specifically, I work on adaptive online learning, i.e., designing online decision making algorithms that optimally exploit problem structures. 
+- Broadly speaking, I am interested in **sequential data science**. How do we process information revealed on a data stream, and rigorously use that to support real-time decision making? For me, this is a fascinating field at the intersection of optimization, signal processing, statistics and game theory. 
 
-Recently I am thinking about how to systematically simplify the design and verification of online learning algorithms, from a continuous-time perspective. **I am looking for a postdoc position starting in Fall 2023.** 
+- My research centers around a line called **adaptive online learning**. The goal is to design online decision making algorithms that optimally exploits offline knowledge, such as domain structures, physical models and batch machine learning. I envision it as an appealing bridge between offline decision methods and their robust online deployment (against uncertainties).
 
-Prior to BU, I studied mechanical engineering at Tsinghua University.
+- During my PhD, I have been developing **a continuous-time framework** to design these adaptive algorithms. Recently, I enjoy thinking about its connection to **temporal representations**.
+
+My publications are listed below. Feedbacks are always welcome! 
 
 Email address: zhiyuz [at] bu (dot) edu
 
-[CV](https://zhiyuzz.github.io/CV_Zhiyu_Zhang.pdf){:target="_blank"}&nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?hl=en&user=5KHfVTQAAAAJ&view_op=list_works&authuser=2&sortby=pubdate)&nbsp;&nbsp; [Github](https://github.com/zhiyuzz)&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/zhiyuz-bu/)
+[CV](https://zhiyuzz.github.io/CV_Zhiyu_Zhang.pdf){:target="_blank"}&nbsp;&nbsp; [Github](https://github.com/zhiyuzz)&nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?hl=en&user=5KHfVTQAAAAJ&view_op=list_works&authuser=2&sortby=pubdate)&nbsp;&nbsp; [Semantic Scholar](https://www.semanticscholar.org/author/Zhiyu-Zhang/2117992745)
 
 ## Research
 
@@ -36,9 +38,3 @@ AISTATS 2022.
 - [**Provable Hierarchical Imitation Learning via EM**](https://arxiv.org/abs/2010.03133)<br>
 **ZZ**, Ioannis Paschalidis.<br>
 AISTATS 2021. Also presented at ICML 2020 Workshop.
-
-## Service
-
-Reviewer for ICML, NeurIPS, AISTATS. 
-
-Top reviewer (10%) at AISTATS'22, ICML'22, NeurIPS'22.
