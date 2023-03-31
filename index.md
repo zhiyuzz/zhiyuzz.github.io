@@ -7,7 +7,7 @@ Hello! I am a fifth year PhD student at Boston University, advised by Prof. [Yan
 
 - I am broadly interested in **sequential data science**. How do we process information revealed on a data stream, and rigorously use that to support real-time decision making? For me, this is a fascinating field at the intersection of optimization, signal processing, statistics and game theory. 
 
-- My research centers around **adaptive online learning**. The goal is to design online decision making algorithms that optimally exploit offline knowledge, such as domain structures, physical models and batch machine learning. I envision it as an appealing bridge between offline methods and their robust online deployment (against uncertainties).
+- My research centers around **adaptive online learning**. The goal is to design online decision making algorithms that (Bayes)-optimally exploit offline knowledge, such as domain structures, physical models and batch machine learning. I envision it as an appealing bridge between offline algorithms and their robust online deployment (against uncertainties).
 
 - During my PhD, I have been developing **a continuous-time framework** to design these adaptive algorithms. Recently, I enjoy thinking about its connection to **temporal representations**.
 
