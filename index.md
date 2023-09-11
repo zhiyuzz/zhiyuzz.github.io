@@ -9,7 +9,7 @@ I am broadly interested in **sequential data science**. How do we process inform
 
 Specifically, my research centers around **adaptive online learning**. The goal is to design online decision making algorithms that Bayes-optimally exploit offline knowledge, such as domain structures, physical models and deep learning. I envision it as a bridge between offline methods and their robust online deployment against uncertainties. 
 
-Email address: zhiyuz [at] bu (dot) edu
+Email address: zhiyuz [at] seas (dot) harvard (dot) edu
 
 [CV](https://zhiyuzz.github.io/CV_Zhiyu_Zhang.pdf){:target="_blank"}&nbsp;&nbsp; [Github](https://github.com/zhiyuzz)&nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?hl=en&user=5KHfVTQAAAAJ&view_op=list_works&authuser=2&sortby=pubdate)&nbsp;&nbsp; [Semantic Scholar](https://www.semanticscholar.org/author/Zhiyu-Zhang/2117992745)
 
