@@ -17,7 +17,7 @@ Email address: zhiyuz [at] seas (dot) harvard (dot) edu
 
  - [Unconstrained Dynamic Regret via Sparse Coding](https://arxiv.org/abs/2301.13349)<br>
 ZZ, Ashok Cutkosky, Ioannis Paschalidis.<br>
-Preprint.
+NeurIPS 2023.
 
  - [Optimal Comparator Adaptive Online Learning with Switching Cost](https://arxiv.org/abs/2205.06846)<br>
 ZZ, Ashok Cutkosky, Ioannis Paschalidis.<br>
