@@ -17,7 +17,7 @@ Email address: zhiyuz [at] seas (dot) harvard (dot) edu
 
  - [Improving Adaptive Online Learning Using Refined Discretization](https://arxiv.org/abs/2309.16044)<br>
 ZZ, Heng Yang, Ashok Cutkosky, Ioannis Paschalidis.<br>
-arXiv 2023.
+ALT 2024.
 
  - [Unconstrained Dynamic Regret via Sparse Coding](https://arxiv.org/abs/2301.13349)<br>
 ZZ, Ashok Cutkosky, Ioannis Paschalidis.<br>
