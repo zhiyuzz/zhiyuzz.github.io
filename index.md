@@ -5,9 +5,11 @@ layout: default
 
 Hello! I'm a postdoc at Harvard University, hosted by Prof. [Heng Yang](https://hankyang.seas.harvard.edu/). Previously, I had a blast doing my phd at Boston University, advised by Prof. [Yannis Paschalidis](https://sites.bu.edu/paschalidis/people/yannis-paschalidis/) and Prof. [Ashok Cutkosky](https://ashok.cutkosky.com/). Long ago I did my undergrad at Tsinghua University.
 
-I am broadly interested in **sequential data science**. How do we process information revealed on a data stream, and rigorously use that to support real-time decision making? For me, this is a fascinating field at the intersection of optimization, signal processing, statistics and game theory. 
+I'm broadly interested in **sequential data science**. How do we process information revealed on a data stream, and rigorously use that to support real-time decision making? For me, this is a fascinating field at the intersection of optimization, signal processing, statistics and game theory. 
 
 Specifically, my research centers around **adaptive online learning**. The goal is to design online decision making algorithms that Bayes-optimally exploit offline knowledge, such as domain structures, physical models and deep learning. I envision it as a bridge between offline methods and their robust online deployment against uncertainties. 
+
+Recently I'm also excited about bringing such algorithmic advances closer to the real world, particularly in the area of **robotics and automation**. 
 
 Email address: zhiyuz [at] seas (dot) harvard (dot) edu
 
