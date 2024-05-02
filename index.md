@@ -19,11 +19,11 @@ Email address: zhiyuz [at] seas (dot) harvard (dot) edu
 
  - [Discounted Adaptive Online Prediction](https://arxiv.org/abs/2402.02720)<br>
 ZZ, David Bombara, Heng Yang.<br>
-arXiv preprint.
+ICML 2024.
 
  - [Understanding Adam Optimizer via Online Learning of Updates: Adam is FTRL in Disguise](https://arxiv.org/abs/2402.01567)<br>
 Kwangjun Ahn, ZZ, Yunbum Kook, Yan Dai.<br>
-arXiv preprint.
+ICML 2024.
 
  - [Improving Adaptive Online Learning Using Refined Discretization](https://arxiv.org/abs/2309.16044)<br>
 ZZ, Heng Yang, Ashok Cutkosky, Ioannis Paschalidis.<br>
