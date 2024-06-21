@@ -5,3 +5,6 @@ markdown: kramdown
 
 url: zhiyuzz.github.io
 baseurl: ""
+
+plugins:
+  - jemoji
