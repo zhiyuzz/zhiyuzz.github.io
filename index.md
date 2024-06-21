@@ -17,7 +17,17 @@ Email address: zhiyuz [at] seas (dot) harvard (dot) edu
 
 ## Publication
 
- - [Discounted Adaptive Online Prediction](https://arxiv.org/abs/2402.02720)<br>
+Five representative works marked with :star:.
+
+ - :star: [Pick up the PACE: A Parameter-Free Optimizer for Lifelong Reinforcement Learning](https://arxiv.org/abs/2405.16642)<br>
+Aneesh Muppidi, ZZ, Heng Yang.<br>
+Preprint.
+
+ - [Adapting Conformal Prediction to Distribution Shifts Without Labels](https://arxiv.org/abs/2406.01416)<br>
+Kevin Kasa, ZZ, Heng Yang, Graham Taylor.<br>
+Preprint.
+
+ - :star: [Discounted Adaptive Online Learning: Towards Better Regularization](https://arxiv.org/abs/2402.02720)<br>
 ZZ, David Bombara, Heng Yang.<br>
 ICML 2024.
 
@@ -25,15 +35,15 @@ ICML 2024.
 Kwangjun Ahn, ZZ, Yunbum Kook, Yan Dai.<br>
 ICML 2024.
 
- - [Improving Adaptive Online Learning Using Refined Discretization](https://arxiv.org/abs/2309.16044)<br>
+ - :star: [Improving Adaptive Online Learning Using Refined Discretization](https://arxiv.org/abs/2309.16044)<br>
 ZZ, Heng Yang, Ashok Cutkosky, Ioannis Paschalidis.<br>
 ALT 2024.
 
- - [Unconstrained Dynamic Regret via Sparse Coding](https://arxiv.org/abs/2301.13349)<br>
+ - :star: [Unconstrained Dynamic Regret via Sparse Coding](https://arxiv.org/abs/2301.13349)<br>
 ZZ, Ashok Cutkosky, Ioannis Paschalidis.<br>
 NeurIPS 2023.
 
- - [Optimal Comparator Adaptive Online Learning with Switching Cost](https://arxiv.org/abs/2205.06846)<br>
+ - :star: [Optimal Comparator Adaptive Online Learning with Switching Cost](https://arxiv.org/abs/2205.06846)<br>
 ZZ, Ashok Cutkosky, Ioannis Paschalidis.<br>
 NeurIPS 2022. Also presented at ICML 2022 workshop. 
 
