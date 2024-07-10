@@ -19,7 +19,7 @@ Email address: zhiyuz [at] seas (dot) harvard (dot) edu
 
 Five representative works marked with [*].
 
- - [*] [Pick up the PACE: A Parameter-Free Optimizer for Lifelong Reinforcement Learning](https://arxiv.org/abs/2405.16642)<br>
+ - [*] [Fast TRAC: A Parameter-Free Optimizer for Lifelong Reinforcement Learning](https://arxiv.org/abs/2405.16642)<br>
 Aneesh Muppidi, ZZ, Heng Yang.<br>
 Preprint.
 
