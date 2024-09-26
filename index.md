@@ -19,13 +19,13 @@ Email address: zhiyuz [at] seas (dot) harvard (dot) edu
 
 Five representative works marked with [*].
 
- - [*] [Fast TRAC: A Parameter-Free Optimizer for Lifelong Reinforcement Learning](https://arxiv.org/abs/2405.16642)<br>
-Aneesh Muppidi, ZZ, Heng Yang.<br>
-Preprint.
-
  - [Adapting Conformal Prediction to Distribution Shifts Without Labels](https://arxiv.org/abs/2406.01416)<br>
 Kevin Kasa, ZZ, Heng Yang, Graham Taylor.<br>
 Preprint.
+
+ - [*] [Fast TRAC: A Parameter-Free Optimizer for Lifelong Reinforcement Learning](https://arxiv.org/abs/2405.16642)<br>
+Aneesh Muppidi, ZZ, Heng Yang.<br>
+NeurIPS 2024.
 
  - [*] [Discounted Adaptive Online Learning: Towards Better Regularization](https://arxiv.org/abs/2402.02720)<br>
 ZZ, David Bombara, Heng Yang.<br>
