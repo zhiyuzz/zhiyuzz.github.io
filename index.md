@@ -19,6 +19,10 @@ Email address: zhiyuz [at] seas (dot) harvard (dot) edu
 
 Five representative works marked with [*].
 
+ - [*] [The Benefit of Being Bayesian in Online Conformal Prediction](https://arxiv.org/abs/2410.02561)<br>
+ZZ, Zhou Lu, Heng Yang.<br>
+Preprint.
+
  - [Adapting Conformal Prediction to Distribution Shifts Without Labels](https://arxiv.org/abs/2406.01416)<br>
 Kevin Kasa, ZZ, Heng Yang, Graham Taylor.<br>
 Preprint.
@@ -27,7 +31,7 @@ Preprint.
 Aneesh Muppidi, ZZ, Heng Yang.<br>
 NeurIPS 2024.
 
- - [*] [Discounted Adaptive Online Learning: Towards Better Regularization](https://arxiv.org/abs/2402.02720)<br>
+ - [Discounted Adaptive Online Learning: Towards Better Regularization](https://arxiv.org/abs/2402.02720)<br>
 ZZ, David Bombara, Heng Yang.<br>
 ICML 2024.
 
