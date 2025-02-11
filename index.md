@@ -39,7 +39,7 @@ NeurIPS 2022. Also presented at ICML 2022 workshop.
 
 Other works
 
- - [Sparsity-Based Interpolation of External, Internal and Swap Regret](https://zhiyuzz.github.io/Adaptive_phi_regret.pdf){:target="_blank"}<br>
+ - [Sparsity-Based Interpolation of External, Internal and Swap Regret](https://arxiv.org/abs/2502.04543)<br>
 Zhou Lu, Y. Jennifer Sun, ZZ. (alphabetical order)<br>
 Preprint.
 
