@@ -43,6 +43,10 @@ Other works
 Zhou Lu, Y. Jennifer Sun, ZZ. (alphabetical order)<br>
 Preprint.
 
+ - [Population Dynamics Control with Partial Observations](https://arxiv.org/abs/2502.14079)<br>
+Zhou Lu, Y. Jennifer Sun, ZZ. (alphabetical order)<br>
+Preprint.
+
  - [Adapting Conformal Prediction to Distribution Shifts Without Labels](https://arxiv.org/abs/2406.01416)<br>
 Kevin Kasa, ZZ, Heng Yang, Graham Taylor.<br>
 Preprint.
