@@ -39,17 +39,17 @@ NeurIPS 2022. Also presented at ICML 2022 workshop.
 
 Other works
 
- - [Sparsity-Based Interpolation of External, Internal and Swap Regret](https://arxiv.org/abs/2502.04543)<br>
-Zhou Lu, Y. Jennifer Sun, ZZ. (alphabetical order)<br>
-Preprint.
-
  - [Population Dynamics Control with Partial Observations](https://arxiv.org/abs/2502.14079)<br>
 Zhou Lu, Y. Jennifer Sun, ZZ. (alphabetical order)<br>
 Preprint.
 
+ - [Sparsity-Based Interpolation of External, Internal and Swap Regret](https://arxiv.org/abs/2502.04543)<br>
+Zhou Lu, Y. Jennifer Sun, ZZ. (alphabetical order)<br>
+COLT 2025.
+
  - [Adapting Conformal Prediction to Distribution Shifts Without Labels](https://arxiv.org/abs/2406.01416)<br>
 Kevin Kasa, ZZ, Heng Yang, Graham Taylor.<br>
-Preprint.
+UAI 2025.
 
  - [Discounted Adaptive Online Learning: Towards Better Regularization](https://arxiv.org/abs/2402.02720)<br>
 ZZ, David Bombara, Heng Yang.<br>
