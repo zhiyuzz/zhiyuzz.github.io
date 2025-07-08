@@ -3,15 +3,17 @@ permalink: /
 layout: default
 ---
 
-Hello! I'm a postdoc at Harvard University, hosted by [Heng Yang](https://hankyang.seas.harvard.edu/). Previously I did my phd at Boston University, under the amazing guidance of [Yannis Paschalidis](https://sites.bu.edu/paschalidis/people/yannis-paschalidis/) and [Ashok Cutkosky](https://ashok.cutkosky.com/). Long ago I did my undergrad at Tsinghua University.
+Hello! I'm a researcher interested in the **foundations of data science and automation**. I will join Zhejiang University as an assistant professor in Spring 2026. 
 
-I'm broadly interested in the **foundation of data science**. Specifically, my research centers around **adaptive online learning**, which concerns the theory and practice of sequential decision making with Bayesian-type prior knowledge.
+**Bio.**&nbsp;&nbsp; I'm spending this fall as a postdoc at Carnegie Mellon University, hosted by [Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/). Previously I did my phd at Boston University, advised by [Yannis Paschalidis](https://sites.bu.edu/paschalidis/people/yannis-paschalidis/) and [Ashok Cutkosky](https://ashok.cutkosky.com/), and then spent two years as a postdoc at Harvard University, hosted by [Heng Yang](https://hankyang.seas.harvard.edu/). Long ago I did my undergrad at Tsinghua University. 
 
-On the application side, I'm excited about various aspects of **robotics and automation**, especially algorithmic approaches that efficiently utilize large-scale pretraining (e.g., continual fine-tuning and conformal prediction). 
+**Research.**&nbsp;&nbsp; My past research centers around **adaptive online learning**, which concerns the theory and practice of sequential decision making with initial guesses. Recently I've also been working on **uncertainty quantification**, especially the use of regularization to relax "hard assumptions" on the nature. I enjoy thinking about properly abstracted theoretical problems, designing (hopefully) creative solutions by bridging ideas from disparate fields, and finally applying those to grand challenges in GenAI and automation. Here is my [research statement](assets/Research_statement.pdf). 
 
-Email address: zhiyuz [at] seas (dot) harvard (dot) edu
+**I'm building a warm, supportive and intellectually stimulating research group at Zhejiang University to work on some fun topics. Please reach out if you are interested, thank you!**
 
-[CV](https://zhiyuzz.github.io/CV_Zhiyu_Zhang.pdf){:target="_blank"}&nbsp;&nbsp; [Github](https://github.com/zhiyuzz)&nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?hl=en&user=5KHfVTQAAAAJ&view_op=list_works&authuser=2&sortby=pubdate)
+Email address: zhiyuzresearch [at] gmail (dot) com
+
+[CV](assets/CV_Zhiyu_Zhang.pdf){:target="_blank"}&nbsp;&nbsp; [Github](https://github.com/zhiyuzz)&nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?hl=en&user=5KHfVTQAAAAJ&view_op=list_works&authuser=2&sortby=pubdate)&nbsp;&nbsp; [Photo](photo)
 
 ## Publication
 
@@ -71,4 +73,4 @@ AISTATS 2022.
 ZZ, Ioannis Paschalidis.<br>
 AISTATS 2021. Also presented at ICML 2020 Workshop.
 
-PhD Dissertation.&nbsp; [Temporal Aspects of Adaptive Online Learning: Continuity and Representation](https://zhiyuzz.github.io/Dissertation_Zhiyu.pdf){:target="_blank"}
+PhD Dissertation.&nbsp; [Temporal Aspects of Adaptive Online Learning: Continuity and Representation](assets/Dissertation_Zhiyu.pdf){:target="_blank"}
