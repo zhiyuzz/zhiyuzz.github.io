@@ -15,9 +15,9 @@ Hello! I'm an assistant professor at Zhejiang University working on the **founda
 
  - MS students: Yiming Sun (孙一鸣)
 
-**Please reach out if you are interested in joining us!** We also have a weekly group meeting that focuses on understanding fundamental topics in data science. It is open to all, and please reach out to learn more. 
+**Please reach out if you are interested in joining us!** We have a weekly group meeting that focuses on understanding fundamental topics in data science. It is open to all, and please reach out to learn more. 
 
-Email address: zhiyuz@zju.edu.cn
+Email address: zhiyuzresearch@gmail.com
 
 [CV](assets/CV_Zhiyu_Zhang.pdf){:target="_blank"}&nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?hl=en&user=5KHfVTQAAAAJ&view_op=list_works&authuser=2&sortby=pubdate)&nbsp;&nbsp; [Photo](photo)
 
