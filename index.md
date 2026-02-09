@@ -25,7 +25,7 @@ Email address: zhiyuzresearch@gmail.com
 
 Representative works
 
- - [Operationalizing Stein’s Method for Online Linear Optimization: CLT-Based Optimal Tradeoffs](assets/Stein_OL.pdf){:target="_blank"}<br>
+ - [Operationalizing Stein’s Method for Online Linear Optimization: CLT-Based Optimal Tradeoffs](https://arxiv.org/abs/2602.06545)<br>
 ZZ, Aaditya Ramdas.<br>
 Preprint.
 
