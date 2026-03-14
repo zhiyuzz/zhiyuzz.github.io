@@ -10,3 +10,4 @@ plugins:
   - jemoji
 
 header_pages:
+  - index.md
