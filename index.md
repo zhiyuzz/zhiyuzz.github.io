@@ -19,7 +19,7 @@ Hello! I'm an assistant professor at Zhejiang University working on the **founda
 
 Email address: zhiyuzresearch@gmail.com
 
-[CV](assets/CV_Zhiyu_Zhang.pdf){:target="_blank"}&nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?hl=en&user=5KHfVTQAAAAJ&view_op=list_works&authuser=2&sortby=pubdate)&nbsp;&nbsp; [Photo](photo)
+[CV](assets/CV_Zhiyu_Zhang.pdf){:target="_blank"}&nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?hl=en&user=5KHfVTQAAAAJ&view_op=list_works&authuser=2&sortby=pubdate)&nbsp;&nbsp; [Photo](photo)&nbsp;&nbsp; [Talks](talk)
 
 ## Publication
 
