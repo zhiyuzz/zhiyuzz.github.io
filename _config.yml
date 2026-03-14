@@ -8,3 +8,5 @@ baseurl: ""
 
 plugins:
   - jemoji
+
+header_pages:
