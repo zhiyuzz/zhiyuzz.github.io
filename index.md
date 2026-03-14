@@ -7,7 +7,7 @@ Hello! I'm an assistant professor at Zhejiang University working on the **founda
 
 **Bio.**&nbsp;&nbsp; Previously I did my phd at Boston University, advised by [Yannis Paschalidis](https://sites.bu.edu/paschalidis/people/yannis-paschalidis/) and [Ashok Cutkosky](https://ashok.cutkosky.com/). After that I did postdoc at Harvard University hosted by [Heng Yang](https://hankyang.seas.harvard.edu/), and at Carnegie Mellon University hosted by [Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/). Long ago I did my undergrad at Tsinghua University. 
 
-**Research.**&nbsp;&nbsp; My research focuses on algorithmic problems at the intersection of optimization, statistics, and game theory. In particular, I enjoy (i) drawing connections across these areas to derive simple, interpretable, and quantitatively strong algorithms from first principles; and (ii) developing theory that leads, rather than follows, the state-of-the-art practice in data science. With collaborators, my group also explores a range of downstream applications with real-world impact, including GenAI, robotics, energy systems, and economics. 
+**Research.**&nbsp;&nbsp; My research focuses on algorithmic problems at the intersection of optimization, statistics, and game theory. In particular, my priorities are (i) drawing connections across these areas to derive simple, interpretable, and quantitatively strong algorithms from first principles; and (ii) developing theory that leads, rather than follows, the state-of-the-art practice in data science. With collaborators, my group also explores a range of downstream applications with real-world impact, including GenAI, robotics, energy systems, and economics. 
 
 **Group.**&nbsp;&nbsp; I'm fortunate to lead a warm, supportive and intellectually stimulating research group, which also includes the following members. 
 
@@ -15,7 +15,7 @@ Hello! I'm an assistant professor at Zhejiang University working on the **founda
 
  - MS students: Yiming Sun (孙一鸣)
 
-**Please reach out if you are interested in joining us!** We have a weekly group meeting that focuses on understanding fundamental topics in data science. It is open to all, and please reach out to learn more. 
+**Please reach out if you are interested in joining us!** We have a weekly group meeting that focuses on understanding fundamental topics in data science ([topic for Spring'26](https://web.stanford.edu/class/ee377/lecture-notes.pdf){:target="_blank"}). It is open to all, and please reach out to learn more. 
 
 Email address: zhiyuzresearch@gmail.com
 
