@@ -13,7 +13,7 @@ Hello! I'm an assistant professor at Zhejiang University working on the **founda
 
  - PhD students: Yukun Wang (王钰琨)
 
- - MS students: Yiming Sun (孙一鸣)
+ - MS students: Yiming Sun (孙一鸣), Wenxuan Li (李文轩; co-advised with [Qi Ye](https://perple-zju.github.io/))
 
 **Please reach out if you are interested in joining us!** We have a weekly group meeting that focuses on understanding fundamental topics in data science ([topic for Spring'26](https://web.stanford.edu/class/ee377/lecture-notes.pdf){:target="_blank"}). It is open to all, and please reach out to learn more. 
 
