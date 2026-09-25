@@ -7,15 +7,17 @@ Hello! I'm an assistant professor at Zhejiang University working on the **founda
 
 **Bio.**&nbsp;&nbsp; Previously I did my phd at Boston University, advised by [Yannis Paschalidis](https://sites.bu.edu/paschalidis/people/yannis-paschalidis/) and [Ashok Cutkosky](https://ashok.cutkosky.com/). After that I did postdoc at Harvard University hosted by [Heng Yang](https://hankyang.seas.harvard.edu/), and at Carnegie Mellon University hosted by [Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/). Long ago I did my undergrad at Tsinghua University. 
 
-**Research.**&nbsp;&nbsp; My research focuses on algorithmic problems at the intersection of optimization, statistics, and game theory. In particular, my priorities are (i) drawing connections across these areas to derive simple, interpretable, and quantitatively strong algorithms from first principles; and (ii) developing theory that leads, rather than follows, the state-of-the-art practice in data science. With collaborators, my group also explores a range of downstream applications with real-world impact, including GenAI, robotics, energy systems, and economics. 
+**Research.**&nbsp;&nbsp; My theoretical research focuses on **algorithmic problems at the intersection of optimization, statistics, and game theory**. My priorities are (i) drawing connections across these areas to derive simple, interpretable, and quantitatively strong algorithms from first principles; and (ii) developing theory that leads, rather than follows, the state-of-the-art practice in data science. 
+
+On the practical side, my group is interested in **improving the efficiency of AI inference systems via optimiziation modeling**. Currently we focus on scheduling problems in agent harnesses, such as context management, task decomposition, and multi-agent orchestration. 
 
 **Group.**&nbsp;&nbsp; I'm fortunate to lead a warm, supportive and intellectually stimulating research group, which also includes the following members. 
 
  - PhD students: Yukun Wang (王钰琨)
 
- - MS students: Yiming Sun (孙一鸣), Wenxuan Li (李文轩; co-advised with [Qi Ye](https://perple-zju.github.io/))
+ - MS students: Mingzhuo Ma (马铭卓), Wenxuan Li (李文轩; co-advised with [Qi Ye](https://perple-zju.github.io/))
 
-**Please reach out if you are interested in joining us!** We have a weekly group meeting that focuses on understanding fundamental topics in data science ([topic for Spring'26](https://web.stanford.edu/class/ee377/lecture-notes.pdf){:target="_blank"}). It is open to all, and please reach out to learn more. 
+**Please reach out if you are interested in joining us!** We run two separate reading groups that focus on fundamental or timely topics in data science. Topics for Fall'26: [high-dimensional probability](https://web.math.princeton.edu/~rvan/APC550.pdf){:target="_blank"}, and inference-system optimization. 
 
 Email address: zhiyuzresearch@gmail.com
 
