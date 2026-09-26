@@ -15,7 +15,7 @@ On the practical side, my group is interested in **improving the efficiency of A
 
  - PhD students: Yukun Wang (王钰琨)
 
- - MS students: Mingzhuo Ma (马铭卓), Wenxuan Li (李文轩; co-advised with [Qi Ye](https://perple-zju.github.io/))
+ - MS students: Mingzhuo Ma (马铭卓; co-advised with [Jiming Chen](https://person.zju.edu.cn/en/jmchen)), Wenxuan Li (李文轩; co-advised with [Qi Ye](https://perple-zju.github.io/))
 
 **Please reach out if you are interested in joining us!** We run two separate reading groups that focus on fundamental or timely topics in data science. Topics for Fall'26: [high-dimensional probability](https://web.math.princeton.edu/~rvan/APC550.pdf){:target="_blank"}, and inference-system optimization. 
 
